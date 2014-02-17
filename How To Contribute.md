@@ -11,7 +11,7 @@ To flag an issue - a problem, inaccuracy, question, etc. - click on the Issues i
 
 To edit a guide (I guess you could say things are getting pretty serious), click on the guide name, then edit. Then have fun. Seriously, you're allowed. Ownership is a non-term in these parts.
 
-To start a new guide, start from the AppleButterJam main page [https://github.com/AppleButterJam] and see if there's an appropriate repository. If there isn't, there's a big Create New Repository Button staring at you, and you can start a new "bucket" of guides. If there's a natural home for it, head there and either way, click the plus symbol, bordered to the left and bottom, next to the repository name.
+To start a new guide, start from the AppleButterJam main page [https://github.com/AppleButterJam] and see if there's an appropriate repository. If there isn't, there's a big Create New Repository Button staring at you, and you can start a new "bucket" of guides. If there's a natural home for it, head there and either way, click the plus symbol, bordered to the left and bottom, next to the repository name. Call it title.md to use the Markdown language that makes it pretty.
 
 If you're editing or starting a new repository, here's a cheatsheet for Github Markdown: http://nestacms.com/docs/creating-content/markdown-cheat-sheet. But honestly? You can get pretty far with the following:
 
