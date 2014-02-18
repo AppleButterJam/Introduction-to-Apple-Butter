@@ -1,10 +1,9 @@
 Introduction to Apple Butter
 ============================
 
-Here's the long story short:
-
 Many of us are interested in building a better city, society, country, and world. We're all on the same team.
 
+Here's the long story short:
 
 1. Firstly, we believe that knowledge should be findable, reusable, and improvable.
 
