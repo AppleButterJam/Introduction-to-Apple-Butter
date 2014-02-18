@@ -3,9 +3,9 @@ Introduction to Apple Butter
 
 Many of us are interested in building a better city, society, country, and world. We're all on the same team.
 
-Here's the long story short:
+Why are we here?
 
-1. Firstly, we believe that knowledge should be findable, reusable, and improvable.
+1. Firstly, we believe that knowledge should be useful, findable, reusable, and improvable.
 
 2. Additionally, we believe that trust is the starting point for communities.
 
