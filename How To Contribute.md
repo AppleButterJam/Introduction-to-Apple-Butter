@@ -15,12 +15,12 @@ To start a new guide, start from the AppleButterJam main page [https://github.co
 
 If you're editing or starting a new repository, here's a cheatsheet for Github Markdown: http://nestacms.com/docs/creating-content/markdown-cheat-sheet. But honestly? You can get pretty far with the following:
 
-#Heading
-##Sub-heading
-###Sub-sub-heading
+[#]Heading
+[##]Sub-heading
+[###]Sub-sub-heading
 
-**Bold**
+[**]Bold[**]
 
-*Italics*
+[*]Italics[*]
 
-[Link title](URL)
+[[]Link title[]][(URL)]
