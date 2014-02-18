@@ -5,7 +5,7 @@ There are three key ways to contribute.
 
 1. Flag an issue
 2. Edit a guide
-3. Start a new guide.
+3. Start a new guide
 
 To flag an issue - a problem, inaccuracy, question, etc., or a guide that should exist, but doesn't yet - click on the Issues icon to the right. It's a circle with an exclamation mark inside. If no one has raised it already, click Create a New Issue and follow the prompts to describe your issue and where we can find it. Thanks!
 
