@@ -7,7 +7,7 @@ There are three key ways to contribute.
 2. Edit a guide
 3. Start a new guide.
 
-To flag an issue - a problem, inaccuracy, question, etc., or to request a new guide - click on the Issues icon to the right. It's a circle with an exclamation mark inside. If no one has raised it already, click Create a New Issue and follow the prompts to describe your issue and where we can find it. Thanks!
+To flag an issue - a problem, inaccuracy, question, etc., or a guide that should exist, but doesn't yet - click on the Issues icon to the right. It's a circle with an exclamation mark inside. If no one has raised it already, click Create a New Issue and follow the prompts to describe your issue and where we can find it. Thanks!
 
 To edit a guide (I guess you could say things are getting pretty serious), click on the guide name, then edit. Then have fun. Seriously, you're allowed. Ownership is a non-term in these parts.
 
