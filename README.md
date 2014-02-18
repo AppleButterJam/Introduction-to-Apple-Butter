@@ -15,7 +15,7 @@ Why are we here?
 
 
 
-###So this is a home for practical guides to how we do our work, the nuts and bolts: strategies, frameworks, steps, tips. 
+###This is a home for practical guides to how we do our work, the nuts and bolts: strategies, frameworks, steps, tips. 
 
 
 
